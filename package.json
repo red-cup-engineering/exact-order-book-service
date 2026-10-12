@@ -1,0 +1,20 @@
+{
+  "name": "@red-cup-engineering/exact-order-book-service",
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    ".": "./src/order-book.mjs"
+  },
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "dependencies": {
+    "@red-cup-engineering/exact-number-data-service": "workspace:*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/red-cup-engineering/computer-engineering-services-section.git",
+    "directory": "services/market-engineering-services-section/services/exact-order-book-service"
+  }
+}
