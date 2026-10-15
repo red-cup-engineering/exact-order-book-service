@@ -10,11 +10,12 @@
     "README.md"
   ],
   "dependencies": {
-    "@red-cup-engineering/exact-number-data-service": "workspace:*"
+    "@red-cup-engineering/exact-number-data-service": "0.1.1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/red-cup-engineering/computer-engineering-services-section.git",
     "directory": "services/market-engineering-services-section/services/exact-order-book-service"
-  }
+  },
+  "private": false
 }
